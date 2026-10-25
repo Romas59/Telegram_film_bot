@@ -1,0 +1,82 @@
+[
+    {
+        "Title": "Sonic the Hedgehog 3",
+        "Year": "2024",
+        "Rated": "PG",
+        "Released": "20 Dec 2024",
+        "Runtime": "110 min",
+        "Genre": "Action, Adventure, Comedy",
+        "Director": "Jeff Fowler",
+        "Writer": "Pat Casey, Josh Miller, John Whittington",
+        "Actors": "Jim Carrey, Ben Schwartz, Keanu Reeves",
+        "Plot": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched, Team Sonic must seek out an unlikely alliance.",
+        "Language": "English, Spanish, Japanese, French",
+        "Country": "United States, Japan",
+        "Awards": "1 win & 6 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjZjNjE5NDEtOWJjYS00Mjk2LWI1ZDYtOWI1ZWI3MzRjM2UzXkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.9/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "86%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "56/100"
+            }
+        ],
+        "Metascore": "56",
+        "imdbRating": "6.9",
+        "imdbVotes": "85,333",
+        "imdbID": "tt18259086",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$236,115,100",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Avatar: Fire and Ash",
+        "Year": "2025",
+        "Rated": "PG-13",
+        "Released": "19 Dec 2025",
+        "Runtime": "197 min",
+        "Genre": "Action, Adventure, Drama",
+        "Director": "James Cameron",
+        "Writer": "James Cameron, Rick Jaffa, Amanda Silver",
+        "Actors": "Sam Worthington, Zoe Saldaña, Sigourney Weaver",
+        "Plot": "Jake and Neytiri's family grapples with grief, encountering a new, aggressive Na'vi tribe, the Ash People, who are led by the fiery Varang, as the conflict on Pandora escalates and a new moral focus emerges.",
+        "Language": "English",
+        "Country": "United States, Canada",
+        "Awards": "Won 1 Oscar. 42 wins & 62 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZDYxY2I1OGMtN2Y4MS00ZmU1LTgyNDAtODA0MzAyYjI0N2Y2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.2/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "66%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "61/100"
+            }
+        ],
+        "Metascore": "61",
+        "imdbRating": "7.2",
+        "imdbVotes": "214,330",
+        "imdbID": "tt1757678",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$404,340,010",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    }
+]
